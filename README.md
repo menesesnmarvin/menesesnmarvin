@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm **Marvz**! 👋
 
-<!--
-**menesesnmarvin/menesesnmarvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer based in **Laguna, Philippines**
 
-Here are some ideas to get you started:
+> Check out my [website](https://portfolio-website-nine-bice.vercel.app/) to learn more about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend Development:** React, Next.js, JavaScript, TypeScript, CSS, TailwindCSS, PrimeReact
+
+**Version Control:** Git, Bitbucket
+
+**Backend Development:** Node JS, Express
+
+**Mobile App Development:** React Native
+
+**Database:** SQL Server, MongoDB
+
+**Others:** Zustand, React Query, Prisma, Redis
+
+##
+
+_Connect with me_
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvin-meneses-646366249/)
